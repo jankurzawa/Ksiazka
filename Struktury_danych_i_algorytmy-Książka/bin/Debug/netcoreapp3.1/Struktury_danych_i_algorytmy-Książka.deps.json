@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Struktury_danych_i_algorytmy-Książka/1.0.0": {
+        "runtime": {
+          "Struktury_danych_i_algorytmy-Książka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Struktury_danych_i_algorytmy-Książka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

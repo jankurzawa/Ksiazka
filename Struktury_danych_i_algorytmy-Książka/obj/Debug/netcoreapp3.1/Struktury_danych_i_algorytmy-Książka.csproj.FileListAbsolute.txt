@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\bin\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.exe
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\bin\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.deps.json
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\bin\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.runtimeconfig.json
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\bin\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\bin\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.dll
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\bin\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.pdb
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\obj\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\obj\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\obj\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\obj\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\obj\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.dll
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\obj\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.pdb
+C:\Users\Admin\source\repos\Struktury_danych_i_algorytmy-Książka\Struktury_danych_i_algorytmy-Książka\obj\Debug\netcoreapp3.1\Struktury_danych_i_algorytmy-Książka.genruntimeconfig.cache
